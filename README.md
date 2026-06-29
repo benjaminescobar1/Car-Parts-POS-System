@@ -43,6 +43,11 @@ py car_parts_pos.py
 **Password:** "password123456"
 
 ## Project Screenshots
+### Checkout and Receipt:
 <img width="457" height="962" alt="Checkout and Receipt" src="https://github.com/user-attachments/assets/41048757-0dc1-4dd9-9c29-0e4ad5c94907" />
+
+### Add Part:
 <img width="622" height="622" alt="Add Part" src="https://github.com/user-attachments/assets/4ae69d3f-7634-49f8-abfd-604f9a281bac" />
+
+### Login:
 <img width="507" height="522" alt="Login" src="https://github.com/user-attachments/assets/20766a7e-2ccc-4aca-a6c6-9ee5d2d9dc04" />
