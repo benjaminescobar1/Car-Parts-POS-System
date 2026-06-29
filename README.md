@@ -29,7 +29,7 @@ The system supports the following use cases:
 
 ## How to Run
 
-1. Clone the repository:
+1. Clone the repository.
 
 2. Open the project folder in Visual Studio Code.
 
