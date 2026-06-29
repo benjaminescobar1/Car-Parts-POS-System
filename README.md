@@ -51,3 +51,6 @@ py car_parts_pos.py
 
 ### Login:
 <img width="507" height="522" alt="Login" src="https://github.com/user-attachments/assets/20766a7e-2ccc-4aca-a6c6-9ee5d2d9dc04" />
+
+## Developer:
+* Benjamin Escobar
